@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1033253006534",
+    "project_id": "forvzcode",
+    "storage_bucket": "forvzcode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033253006534:android:2de87bb66751166a51bbc7",
+        "android_client_info": {
+          "package_name": "com.utopia.vzqrscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033253006534-chr30fa1c1g2eknkd9n56bg5kvpbl2ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utopia.vzqrscanner",
+            "certificate_hash": "8ce762480e130f23f627b814c5d1f373f9bf45e4"
+          }
+        },
+        {
+          "client_id": "1033253006534-t6huha2b7jkrfpm7rrf9nc7n4q1p5s6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXf-1QrIW6QOlwIOI_ebLNy-7QUuU7fDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033253006534-t6huha2b7jkrfpm7rrf9nc7n4q1p5s6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
